@@ -14,5 +14,10 @@ namespace TestProject
         {
             _noThreads = noThreads;
         }
+
+        public int StartThread()
+        {
+            return 0;
+        }
     }
 }
