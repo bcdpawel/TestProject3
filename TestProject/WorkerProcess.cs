@@ -19,5 +19,10 @@ namespace TestProject
         {
             return 0;
         }
+
+        public void StopThread()
+        {
+
+        }
     }
 }
